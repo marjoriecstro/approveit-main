@@ -1,0 +1,11 @@
+[
+    { "term": "Paris", "definition": "Torre Eiffel" },
+    { "term": "Roma", "definition": "Coliseu" },
+    { "term": "Londres", "definition": "Big-Ben" },
+    { "term": "Rio de Janeiro", "definition": "Cristo Redentor" },
+    { "term": "Buenos Aires", "definition": "Obelisco" },
+    { "term": "Peru", "definition": "Machu Picchu" },
+    { "term": "Nova York", "definition": "Estátua da Liberdade" },
+    { "term": "Sydney", "definition": "Opera House" },
+    { "term": "Amsterdã", "definition": "Museu Van Gogh" }
+  ]
